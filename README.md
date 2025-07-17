@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m a Computer Science undergraduate passionate about solving real-world problems with technology.  <br>💡 I have a strong interest in machine learning, software development, and system design.  <br>🧠 Currently, I am exploring federated learning, differential privacy, and building end-to-end AI systems.  <br>🛠️ My tech stack includes C, C++, Python, PyTorch, FastAPI, Docker etc. <br>📈 I’m always learning and building, aiming to grow into a versatile engineer ready for high-impact roles.
+Based on the resume provided, here is a descriptive paragraph for a GitHub profile:
+
+I am a Computer Science undergraduate at IIT Jodhpur with a strong foundation in building scalable backend systems and machine learning pipelines. My practical experience includes developing and deploying backend pipelines and creating deep learning pipelines for medical imaging using PyTorch. I have hands-on experience with Python, FastAPI, and cloud technologies, and have developed projects such as a modular federated learning pipeline using Docker and an AI-based movie recommendation system.  I am passionate about applying my skills in software development and machine learning to create efficient and impactful solutions. Hit me up if you want to collaborate with me for a fun project!! <br>
+👋 I'm currently based in Jaipur, Rajasthan  <br>💡 I am a pre-final year student as IIT Jodhpur  <br>🧠 Currently, I am exploring federated learning, differential privacy, and building end-to-end AI systems.  <br>🛠️ My tech stack includes C, C++, Python, PyTorch, FastAPI, Docker etc. <br>📈 I’m always learning and building, aiming to grow into a versatile engineer ready for high-impact roles.
 
 
 ## 🌐 Socials:
